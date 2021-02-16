@@ -29,3 +29,4 @@ SI PKK merupakan aplikasi penunjang kegiatan anggota PKK dalam mengatur data kea
 ## Run Program
 - specify database location on file .env
 - run: php artisan serve
+- login http://localhost:8000/admin (user: admin, password: password)
